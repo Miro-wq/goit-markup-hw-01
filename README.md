@@ -2,7 +2,7 @@ HTML WebStudio Figma Homework
 
 ## Description
 
-This is a homework project for the **Full Stack Developer** course, focused on creating a static web page using HTML and CSS. The project involves replicating the WebStudio page design provided in Figma.
+This is a homework project, focused on creating a static web page using HTML and CSS. The project involves replicating the WebStudio page design provided in Figma.
 
 ## Project Structure
 
