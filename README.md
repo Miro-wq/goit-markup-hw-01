@@ -1,6 +1,20 @@
-# Tema #1 GoIT
+HTML WebStudio Figma Homework
 
-Realizare HTML WebStudio Figma
+## Description
 
-## Link către Pagina Live
-[Webstudio Tema 1](https://miro-wq.github.io/goit-markup-hw-01/)
+This is a homework project for the **Full Stack Developer** course, focused on creating a static web page using HTML and CSS. The project involves replicating the WebStudio page design provided in Figma.
+
+## Project Structure
+
+- **index.html**: The main page of the project.
+- **images/**: Directory containing all images used in the project.
+- **README.md**: This file with project details.
+
+## Technologies Used
+
+- HTML
+- CSS
+
+## License
+
+This project does not specify a license.
