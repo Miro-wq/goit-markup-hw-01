@@ -1,18 +1,15 @@
-HTML WebStudio Figma Homework
+# ✨ HTML WebStudio Figma Homework ✨
 
-## Description
+## 🛠 Tools used
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 
-This is a homework project, focused on creating a static web page using HTML and CSS. The project involves replicating the WebStudio page design provided in Figma.
+![Description](https://img.shields.io/badge/Description-purple?style=for-the-badge)
 
-## Project Structure
+> This is a homework project, focused on creating a static web page using HTML and CSS. The project involves replicating the WebStudio page design provided in Figma.
+>
+
+![Project Structure](https://img.shields.io/badge/Project%20Structure-purple?style=for-the-badge)
 
 - **index.html**: The main page of the project.
 - **images/**: Directory containing all images used in the project.
 - **README.md**: This file with project details.
-
-## Technologies Used
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-
-## License
-
-This project does not specify a license.
